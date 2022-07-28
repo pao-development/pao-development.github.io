@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /privacy-policy/
+
 ## Privacy Policy
 
 The Philippine Academy of Ophthalmology Inc, indicated that the app’s privacy practices may include the handling of data as described below.
