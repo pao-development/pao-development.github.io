@@ -1,4 +1,8 @@
-Child Safety Standards (CSAE)
+layout: page
+title: "CSAE Policy"
+permalink: /csae-policy/
+
+## Child Safety Standards (CSAE)
 
 This page describes the Child Safety Standards for PAO Connect by Reginald Bigornia (as shown on our Google Play store listing).
 
